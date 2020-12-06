@@ -1,0 +1,19 @@
+### Module positions - created on 12/6/2020 10:33:35 AM ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+HS1       Heatsink  NONE               -70.8000   -61.4000    0.0000  bottom
+HS2       Heatsink  NONE               -70.8000   -56.3250    0.0000  bottom
+P6        DUMMY     NONE               -55.4000   -61.4250    0.0000  bottom
+P7        DUMMY     NONE               -55.3000   -45.6250    0.0000  bottom
+P9        DUMMY     NONE               -55.5000   -51.3250    0.0000  bottom
+P12       DUMMY     NONE               -55.5000   -56.4250    0.0000  bottom
+P13       DUMMY     NONE               -60.6000   -51.3250    0.0000  bottom
+P14       DUMMY     NONE               -60.6000   -56.4250    0.0000  bottom
+P15       DUMMY     NONE               -65.7000   -51.3250    0.0000  bottom
+P16       DUMMY     NONE               -65.7000   -56.4250    0.0000  bottom
+P17       DUMMY     NONE               -70.8000   -51.3250    0.0000  bottom
+P18       DUMMY     NONE               -60.5000   -61.4250    0.0000  bottom
+P19       DUMMY     NONE               -65.7000   -61.3250    0.0000  bottom
+## End

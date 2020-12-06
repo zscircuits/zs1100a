@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ZS-2102A-02-rescue)(type Legacy)(uri ${KIPRJMOD}/ZS-2102A-02-rescue.lib)(options "")(descr ""))
+  (lib (name ZS-1100X-02-rescue)(type Legacy)(uri ${KIPRJMOD}/ZS-1100X-02-rescue.lib)(options "")(descr ""))
+  (lib (name PC-1100X-rescue)(type Legacy)(uri ${KIPRJMOD}/PC-1100X-rescue.lib)(options "")(descr ""))
+)
